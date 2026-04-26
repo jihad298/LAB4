@@ -43,7 +43,7 @@ Principales configurations détectées :
 | Élément     | Valeur  |
 | ----------- | ------- |
 | debuggable  | ⚠️ true |
-| permissions | [liste] |
+| permissions | |
 
 🔴 **Alerte :** L’application est en mode *debuggable*, ce qui facilite le reverse engineering.
 
@@ -55,9 +55,6 @@ Identification de **7 chaînes suspectes** :
 
 | Index | String | Interprétation |
 | ----- | ------ | -------------- |
-| ...   | ...    | ...            |
-
-Ces chaînes ont aidé à comprendre la logique interne.
 
 ---
 
