@@ -14,10 +14,10 @@ L’application présente plusieurs faiblesses de sécurité, notamment une logi
 
 ## ℹ️ Informations générales
 
-* **Hash APK :** [à compléter]
-* **Taille :** [à compléter]
-* **Package :** [nom du package]
-* **SDK cible :** [version]
+* **Hash APK :** []
+* **Taille :** []
+* **Package :** 
+* **SDK cible :** 
 * **Structure :** fichiers DEX, ressources, manifest
 
 ---
